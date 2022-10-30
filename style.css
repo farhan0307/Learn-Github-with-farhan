@@ -1,3 +1,9 @@
 body{
     background-color: aliceblue;
 }
+.main{
+    text-align: center;
+}
+.heading{
+    background-color: bisque;
+}
